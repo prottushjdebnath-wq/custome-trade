@@ -1,0 +1,2 @@
+# Placeholder dependencies
+# In Stage 1, we will add actual dependencies like websockets, redis, asyncpg, etc.
